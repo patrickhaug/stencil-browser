@@ -1,0 +1,10 @@
+{
+  "name": "stencil-browser",
+  "version": "0.0.1",
+  "description": "Compile Stencil from Browser",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Patrick Haug ",
+  "license": "MIT"
+}
